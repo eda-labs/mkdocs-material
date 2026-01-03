@@ -7,9 +7,9 @@ on:
 env:
   PYTHON_VERSION: 3.x
 
-# permissions:
-#   contents: read
-#   packages: write
+permissions:
+  contents: read
+  packages: write
 
 jobs:
   release:
