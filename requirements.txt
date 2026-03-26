@@ -10,3 +10,4 @@ https://github.com/timvink/mkdocs-enumerate-headings-plugin/archive/refs/tags/v0
 click<=8.2.1 # fix auto-reload issue https://github.com/squidfunk/mkdocs-material/issues/8478#issuecomment-3543710695
 mkdocs-exclude==1.0.2
 https://github.com/eda-labs/mkdocs-crd-viewer/archive/refs/tags/v0.2.0.zip
+https://github.com/hellt/mkdocs-enumerate-headings-plugin/archive/refs/heads/start-level.zip
